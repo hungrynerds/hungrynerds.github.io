@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus Templates',
-  tagline: 'Some useful pages for Docusaurus',
-  url: 'https://sunlightlyn.github.io',
-  baseUrl: '/docusaurus-templates/', // For github.io/docusaurus-templates/
+  title: 'Hungry Nerds',
+  tagline: 'Recources from DCI Bootcamp',
+  url: 'https://hungrynerds.github.io',
+  baseUrl: '/', // For github.io/docusaurus-templates/
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Hungry Nerds',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
