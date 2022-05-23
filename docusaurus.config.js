@@ -70,16 +70,16 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /** {to: '/blog', label: 'Blog', position: 'left'},
           {
             label: 'Pages',
             position: 'left',
             items: [
-              {to: '/about', label: 'About'},
+              {to: '/about', label: 'About'}, 
             ],
-          },
+          },*/
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/hungrynerds/hungrynerds.github.io',
             label: 'GitHub',
             position: 'right',
           },
